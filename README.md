@@ -4,7 +4,6 @@
   <img src="./assets/hello-world.jpg" width="100%">
 </p>
 
-
 <!-- ===================== INTRO ===================== -->
 
 <h1 align="center">I'm SREERAG</h1>
@@ -12,7 +11,6 @@
 <p align="center">
   <b>DATA SCIENCE GRADUATE</b>
 </p>
-
 
 <!-- ===================== ABOUT ME ===================== -->
 
@@ -27,7 +25,6 @@
   building dashboards, and turning raw information into
   useful insights and decisions.
 </p>
-
 
 <!-- ===================== TECHNOLOGIES ===================== -->
 
@@ -65,8 +62,7 @@
 
 </p>
 
-
-<!-- ===================== GITHUB STATS ===================== -->
+<!-- ===================== GITHUB STATISTICS ===================== -->
 
 <h2 align="center">📊 GitHub Statistics</h2>
 
@@ -77,34 +73,17 @@
   />
 </p>
 
-
 <!-- ===================== CONTRIBUTION SNAKE ===================== -->
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-
-  <picture>
-
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/sreeragsrinu/sreeragsrinu/output/github-snake-dark.svg"
-    />
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/sreeragsrinu/sreeragsrinu/output/github-snake.svg"
-    />
-
-    <img
-      src="https://raw.githubusercontent.com/sreeragsrinu/sreeragsrinu/output/github-snake.svg"
-      alt="GitHub contribution snake"
-    />
-
-  </picture>
-
+  <img
+    src="https://raw.githubusercontent.com/sreeragsrinu/sreeragsrinu/output/github-snake.gif"
+    alt="GitHub contribution snake"
+    width="100%"
+  />
 </p>
-
 
 <!-- ===================== END ===================== -->
 
