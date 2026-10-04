@@ -20,15 +20,9 @@
   <b>Raw data in, a decision out — that's the job.</b>
 </p>
 
-<p align="center">
-  I enjoy working with data, finding meaningful patterns,
-  building dashboards, and turning raw information into
-  useful insights and decisions.
-</p>
-
 <!-- ===================== TECHNOLOGIES ===================== -->
 
-<h2 align="center">🛠️ Technologies</h2>
+<h2 align="center"> TECHNOLOGIES </h2>
 
 <p align="center">
 
@@ -75,7 +69,7 @@
 
 <!-- ===================== CONTRIBUTION SNAKE ===================== -->
 
-<h2 align="center">🐍 Contribution Snake</h2>
+<h2 align="center">🐍 CONTRIBUTION </h2>
 
 <p align="center">
   <img
