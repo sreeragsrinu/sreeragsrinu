@@ -13,9 +13,6 @@
 </p>
 
 <!-- ===================== ABOUT ME ===================== -->
-
-<h2 align="center">👨‍💻 About Me</h2>
-
 <p align="center">
   <b>Raw data in, a decision out — that's the job.</b>
 </p>
