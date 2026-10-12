@@ -10,22 +10,22 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   generate:
-    permissions:
-      contents: write
-
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
     steps:
-      - name: Generate Green Snake on Black Background
+      - name: Generate Green Contribution Snake
         uses: Platane/snk@v3
         with:
           github_user_name: sreeragsrinu
           outputs: |
-            dist/github-snake.svg?palette=github-dark&color_snake=00FF00&color_dots=#000000,#003300,#006600,#00CC00,#00FF00
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=00FF00&color_dots=#000000,#003300,#006600,#00CC00,#00FF00
+            dist/github-snake.svg?palette=github-dark&color_snake=00FF00&color_dots=%23000000,%23003300,%23006600,%2300CC00,%2300FF00
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=00FF00&color_dots=%23000000,%23003300,%23006600,%2300CC00,%2300FF00
 
       - name: Publish Snake
         uses: crazy-max/ghaction-github-pages@v3.1.0
