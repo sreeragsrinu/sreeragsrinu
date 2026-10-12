@@ -1,24 +1,24 @@
-<!-- ==================== INTRO BANNER ==================== -->
+<!-- PROFILE BANNER -->
 
 <p align="center">
   <img
-    src="./assets/profile-banner.jpeg"
+    src="https://raw.githubusercontent.com/sreeragsrinu/sreeragsrinu/main/sreeragsrinu/assets/profile-banner.jpeg"
     alt="Sreerag - Data Science Professional"
     width="100%"
   />
 </p>
 
-<!-- ==================== TECHNICAL SKILLS ==================== -->
+<!-- TECHNICAL SKILLS -->
 
 <p align="center">
   <img
-    src="./assets/technical-skills.jpeg"
+    src="https://raw.githubusercontent.com/sreeragsrinu/sreeragsrinu/main/sreeragsrinu/assets/technical-skills.jpeg"
     alt="My Technical Skills"
     width="100%"
   />
 </p>
 
-<!-- ==================== CONTRIBUTION SNAKE ==================== -->
+<!-- CONTRIBUTION SNAKE -->
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
