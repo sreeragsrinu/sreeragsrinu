@@ -1,8 +1,8 @@
-<!-- ==================== INTRO BANNER ==================== -->
+<!-- ==================== PROFILE BANNER ==================== -->
 
 <p align="center">
   <img
-    src="./assets/profile-banner.jpeg"
+    src="./sreeragsrinu/assets/profile-banner.jpeg"
     alt="Sreerag - Data Science Professional"
     width="100%"
   />
@@ -12,7 +12,7 @@
 
 <p align="center">
   <img
-    src="./assets/technical-skills.jpeg"
+    src="./sreeragsrinu/assets/technical-skills.jpeg"
     alt="My Technical Skills"
     width="100%"
   />
